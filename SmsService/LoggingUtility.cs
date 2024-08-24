@@ -36,7 +36,7 @@ namespace SmsService
         public static void LogError(Exception ex)
         {
             string logFileName = $"Error_{DateTime.Now:yyyy-MM-dd}.txt";
-            string logFilePath = Path.Combine(journalFilePath, logFileName);
+            string logFilePath = Path.Combine(errorFilePath, logFileName);
             string logEntry = $"[{DateTime.Now:yyyy-MM-dd HH:mm:ss}] Error: {ex.Message}";
 
             File.AppendAllText(logFilePath, logEntry + Environment.NewLine);
