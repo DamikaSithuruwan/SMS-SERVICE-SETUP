@@ -1,0 +1,1 @@
+﻿https://api.yoursmsgateway.com/send?apikey=YOUR_API_KEY&phone=MyPhoneNo&message=MyMessage

@@ -1,0 +1,12 @@
+C:\Users\DAMIKA\source\repos\SmsService\SmsService\bin\Debug\SmsService.exe.config
+C:\Users\DAMIKA\source\repos\SmsService\SmsService\bin\Debug\SmsService.exe
+C:\Users\DAMIKA\source\repos\SmsService\SmsService\bin\Debug\SmsService.pdb
+C:\Users\DAMIKA\source\repos\SmsService\SmsService\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\DAMIKA\source\repos\SmsService\SmsService\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\DAMIKA\source\repos\SmsService\SmsService\obj\Debug\SmsService.csproj.AssemblyReference.cache
+C:\Users\DAMIKA\source\repos\SmsService\SmsService\obj\Debug\SmsService.ProjectInstaller.resources
+C:\Users\DAMIKA\source\repos\SmsService\SmsService\obj\Debug\SmsService.csproj.GenerateResource.cache
+C:\Users\DAMIKA\source\repos\SmsService\SmsService\obj\Debug\SmsService.csproj.CoreCompileInputs.cache
+C:\Users\DAMIKA\source\repos\SmsService\SmsService\obj\Debug\SmsService.csproj.Up2Date
+C:\Users\DAMIKA\source\repos\SmsService\SmsService\obj\Debug\SmsService.exe
+C:\Users\DAMIKA\source\repos\SmsService\SmsService\obj\Debug\SmsService.pdb
